@@ -5,6 +5,8 @@
 /* ****************** menubar design ************** */
 body{
   background-image: url(../pictures,logos/1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 nav{
   width: 100%;
